@@ -5,13 +5,13 @@ A robust railway reservation system implemented in C using Linked List and its f
 This project aims to visualise the linked list and its functionalities in the real world. <br>
 This project aims to solve the challenges in the existing ticketing system, including the lack of automation, causing delays and errors in ticket generation and passenger information management and limited access in remote areas. <br>
 
-<b>ADT:<b> <br>
-Singly Linked List: Linked List can be defined as collection of objects called nodes that are randomly stored in the memory.
+<b>ADT:</b> <br>
+<u>Singly Linked List:</u> Linked List can be defined as collection of objects called nodes that are randomly stored in the memory.
 A node contains two fields i.e. data stored at that particular address and the pointer which contains the address of the next node in the memory.
 The last node of the list contains pointer to the null.
 <br><br>
 
-<b>Operations performed: <b> <br>
+<b>Operations performed: </b> <br>
 ->Insertion of nodes (at front) - To initialise (reserve) seats in the train.<br>
 ->Traversal of nodes - to facilitate booking and cancellation of a reservation.<br>
 ->Display data - to display available seats and current schedule of a train. <br>
